@@ -2,6 +2,9 @@
 Using namespace std;
 Int main()
 {
-Cout<<"hello hammad";
+couut<<"hello hammad";
+cout<<"khattak";
+cout<<endl;
+
 Return 0;
 }
