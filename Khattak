@@ -2,9 +2,13 @@
 Using namespace std;
 Int main()
 {
-couut<<"hello hammad";
-cout<<"khattak";
+int a,b,c,d;
+couut<<"hello hammad"<<endl;
+cout<<"khattak"<<endl;
+cout<<"enter some numbers:";
+cin>>a>>b>>c>>d;
 cout<<endl;
+
 
 Return 0;
 }
